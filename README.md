@@ -11,3 +11,7 @@ We compare three classic Deep Q-Network variants on the **Bombers** (a Pommerman
 - Dueling DDQN  
 - Prioritized Experience Replay DQN (Prioritized DQN)
 
+The multi-agent Bombers environment is provided by:
+MultiAgentLearning/playground – PlayGround: AI Research into Multi-Agent Learning
+https://github.com/MultiAgentLearning/playground
+
