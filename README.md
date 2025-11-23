@@ -1,4 +1,4 @@
-# COMP6704-Group08
+# COMP6704-Group18
 **Unconstrained Optimization: Comparison of DQN Variants on Bombers Game**
 
 Group 08  
